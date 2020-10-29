@@ -1,6 +1,6 @@
 # ITPM_Fall_2020
 
-Pei-chi (Peggy) Chen
+# Pei-chi (Peggy) Chen
 
 Temple University
 
