@@ -1,2 +1,6 @@
 # ITPM_Fall_2020
-Name: Pei-chi (Peggy) Chen
+
+Pei-chi (Peggy) Chen
+Temple University
+
+This is for the course CIS 5105 Assignment - Create a GitHub Repo
