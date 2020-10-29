@@ -1,6 +1,6 @@
 # ITPM_Fall_2020
 
-### Pei-chi (Peggy) Chen :books:
+### Pei-chi (Peggy) Chen :memo:
 
 **This is for the course CIS 5105 IT Process Management Assignment - Create a GitHub Repo**
 
